@@ -1,21 +1,21 @@
 # Missing Semester MIT Course
 
 ## Navigating Shell
-`cd ~` --> home directory
-`which node` --> shows you the file path it’s coming from 
-`echo $PATH` --> shows you all paths which will be searched
-`cd -` --> will go to the previous directory
-`Ls -l` --> lists will a long list
-`mv` --> will rename and or move a file
-`cp` --> will copy a file
-`man ls` --> give a manual for that program
-`cat` --> will print the contents of a file
-iostreams are available in shells < / > / >>
-`#` --> means running as root
-`$` --> running as user
-`Sudo su` --> will open terminal as root user
-`Echo 1 | sudo tee brightness`
-'open' --> will open files
+`cd ~` --> home directory\
+`which node` --> shows you the file path it’s coming from \
+`echo $PATH` --> shows you all paths which will be searched\
+`cd -` --> will go to the previous directory\
+`Ls -l` --> lists will a long list\
+`mv` --> will rename and or move a file\
+`cp` --> will copy a file\
+`man ls` --> give a manual for that program\
+`cat` --> will print the contents of a file\
+iostreams are available in shells < / > / >>\
+`#` --> means running as root\
+`$` --> running as user\
+`Sudo su` --> will open terminal as root user\
+`Echo 1 | sudo tee brightness`\
+'open' --> will open files\
 
 ## Scripting a Shell
 `source mcd.sh` --> will define a function in your shell
