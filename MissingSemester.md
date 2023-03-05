@@ -116,7 +116,7 @@ like `d{motion}` followed by `i`
 `s` substitute character (equal to `cl`)
 Visual mode + manipulation
 select text, `d` to delete it or `c` to change it
-`u` to undo, <C-r> to redo
+`u` to undo, \<C-r> to redo
 `y` to copy / “yank” (some other commands like d also copy)
 `p` to paste
 Lots more to learn: e.g. ~ flips the case of a character
