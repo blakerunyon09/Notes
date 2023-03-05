@@ -1,10 +1,10 @@
-Missing Semester MIT Course
+# Missing Semester MIT Course
 
-Navigating Shell
+##Navigating Shell
 cd ~/Documents goes from home directory
 Which node shows you the file path it’s coming from 
-Echo $PATH shows you all baths which will be searched
-Cd - will go to the previous directory
+echo $PATH shows you all baths which will be searched
+cd - will go to the previous directory
 Ls -l lists will a long list
 mv will rename and or move a file
 cp will copy a file
