@@ -144,7 +144,7 @@ Multiple windows
 `:sp` / `:vsp` to split windows
 Can have multiple views of the same buffer.
 
-RegEX
+## RegEX
 
 `.` means “any single character” except newline
 `*` zero or more of the preceding match
